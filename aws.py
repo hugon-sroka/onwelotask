@@ -10,7 +10,7 @@ import os
 import csv
 
 
-bucket_name = 'taskfolder'
+bucket_name = 'XXXXXX'
 api2_url = 'https://data.nasdaq.com/api/v3/datasets/ECONOMIST/BIGMAC_ROU.json?start_date=2021-07-01&end_date=2021-07-31&api_key=Bv9SfFKRue5dKpH1bCKk'
 #There is the method used for upload data without personal data account credential for task purposes.
 #bucket ARN will be sent via e-mail
